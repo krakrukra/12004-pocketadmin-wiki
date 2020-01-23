@@ -1,4 +1,4 @@
-Some example scripts can be found in /extra/examplePayloads/. You should keep in  
+Some example scripts can be found in /extra/payloads/. You should keep in  
 mind that payloads usually need to be modified to fit your particular application,  
 since they heavily depend on target OS, GUI and language settings, hardware, etc.  
 If you are too lazy to make your own payloads, you can always reuse payloads that  
