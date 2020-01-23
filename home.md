@@ -24,10 +24,10 @@ keyboard layout will require some extra files and directories stored on
 the device. You can find more info about that in dedicated wiki pages.  
 
 #### Read other wiki pages:  
-* [commands](https://github.com/krakrukra/PocketAdmin/wiki/commands)  
-* [OS fingerprinter](https://github.com/krakrukra/PocketAdmin/wiki/fingerprinter)  
-* [keyboard layouts](https://github.com/krakrukra/PocketAdmin/wiki/layouts)  
-* [example payloads](https://github.com/krakrukra/PocketAdmin/wiki/examples)  
+* [commands](https://github.com/krakrukra/12004-pocketadmin-wiki/wiki/commands)  
+* [OS fingerprinter](https://github.com/krakrukra/12004-pocketadmin-wiki/wiki/fingerprinter)  
+* [keyboard layouts](https://github.com/krakrukra/12004-pocketadmin-wiki/wiki/layouts)  
+* [example payloads](https://github.com/krakrukra/12004-pocketadmin-wiki/wiki/examples)  
   
 #### Some videos are available on my [youtube channel](https://www.youtube.com/channel/UC8HZCV1vNmZvp7ci1vNmj7g)  
   
