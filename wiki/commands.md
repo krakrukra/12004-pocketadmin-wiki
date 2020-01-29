@@ -187,8 +187,8 @@ If such command is not present, device enumerates in HID+MSD mode,
 but will not type any keys if MSD-only button is pressed.  
 
 11. "USE_FINGERPRINTER" command enables target OS detection.  
-For more information check this [wiki page](https://github.com/krakrukra/PocketAdmin/wiki/fingerprinter)  
+For more information check this [wiki page](https://github.com/krakrukra/12004-pocketadmin-wiki/wiki/fingerprinter)  
 
 12. "USE_LAYOUT **s**" command replaces the default  
 ASCII-to-HIDkeycode mapping with a new one.  
-For more information check this [wiki page](https://github.com/krakrukra/PocketAdmin/wiki/layouts)  
+For more information check this [wiki page](https://github.com/krakrukra/12004-pocketadmin-wiki/wiki/layouts)  

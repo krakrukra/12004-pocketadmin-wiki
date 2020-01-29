@@ -249,7 +249,7 @@ static GetConfigResponse_HIDonly_TypeDef GetConfigResponse_HIDonly __attribute__
 
 //string descriptors. only english (0x0409) is present in supported LANGID list
 static unsigned short StringDescriptor_0[2]  __attribute__(( aligned(2), section(".rodata,\"a\",%progbits@") )) = { 0x0304, 0x0409 };
-       unsigned short StringDescriptor_1[13] = { 0x031A, '1', '3', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0' };
+       unsigned short StringDescriptor_1[13] = { 0x031A, '1', '2', '0', '0', '0', '0', '0', '0', '0', '0', '0', '5' };
 static unsigned short StringDescriptor_2[16] __attribute__(( aligned(2), section(".rodata,\"a\",%progbits@") )) = { 0x0320, 'U', 'S', 'B', ' ', 'F', 'L', 'A', 'S', 'H', ' ', 'D', 'R', 'I', 'V', 'E' };
 
 #endif //USB_RODATA_H
