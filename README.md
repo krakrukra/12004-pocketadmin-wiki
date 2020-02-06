@@ -36,9 +36,9 @@ both old and new firmware update procedures.
 1. install openocd (sudo apt-get install openocd)  
 2. download this repository (.zip) to your PC and unpack it  
 3. open terminal window in /binaries_12xxx/ directory  
-4. connect correct holes on device to correct ST-Link V2 pins  
+4. connect the correct holes on device to correct ST-Link V2 pins  
 5. connect the ST-Link V2 to PC  
-6. run the following command, wait for process to finish:  
+6. run the following command (it is one line), wait for process to finish:  
   
 > openocd -s ./openocd -f stlink-v2.cfg -f stm32f0x.cfg -c "program firmware_12005 verify reset exit 0x08000000"  
   
@@ -52,9 +52,9 @@ You can instead specify firmware_12004 or firmware_12003, if necessary.
 2. install St-Link V2 drivers from [here](https://www.st.com/en/development-tools/stsw-link009.html)  
 3. download this repository (.zip) to your PC and unpack it  
 4. open terminal window in /binaries_12xxx/ directory  
-4. connect correct holes on device to correct ST-Link V2 pins  
+4. connect the correct holes on device to correct ST-Link V2 pins  
 5. connect the ST-Link V2 to PC  
-6. run a similar flashing command, wait for process to finish:  
+6. run a similar flashing command (it is one line), wait for process to finish:  
   
 > openocd.exe -s ./openocd -f stlink-v2.cfg -f stm32f0x.cfg -c "program firmware_12005 verify reset exit 0x08000000"  
   
